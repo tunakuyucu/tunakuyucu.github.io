@@ -1,0 +1,27 @@
+---
+title: "Tuna Kuyucu"
+about:
+  template: solana
+  image: images/tuna.jpg
+  image-alt: "Tuna Kuyucu"
+  links:
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=jiwnXN4AAAAJ&hl=tr&oi=ao
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-2571-9834
+    - icon: github
+      text: GitHub
+      href: https://github.com/tunakuyucu
+---
+
+I am Professor of Sociology in the Core Program at Kadir Has University, Istanbul. I received my PhD in sociology from the University of Washington in 2009 and taught at Boğaziçi University from 2010 to 2026. My work is in economic sociology, urban sociology, nationalism and the sociology of religion.
+
+I have done extensive research on the political economy of urban regeneration and low-income housing in Turkish cities, with a particular focus on Istanbul. This work has appeared in *Urban Studies*, *International Journal of Urban and Regional Research*, *Urban Affairs Review*, *Urban Geography* and *Law & Society Review*.
+
+More recently I have been studying the structure of cultural values and beliefs in Turkey. The first project in this line looks at nationalist sentiments and was published in *Nations and Nationalism*. The second is a study of the levels and types of religiosity and secularity among university students in Turkey.
+
+My work has been recognized with an Urban Studies Foundation fellowship, a Kadir Has University Promising Scholar Award, and two teaching awards from Boğaziçi University.
+
+[Download CV (PDF)](files/cv-english.pdf)

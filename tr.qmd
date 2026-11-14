@@ -1,0 +1,29 @@
+---
+title: "Tuna Kuyucu"
+about:
+  template: solana
+  image: images/tuna.jpg
+  image-alt: "Tuna Kuyucu"
+  links:
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=jiwnXN4AAAAJ&hl=tr&oi=ao
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-2571-9834
+    - icon: github
+      text: GitHub
+      href: https://github.com/tunakuyucu
+---
+
+Kadir Has Üniversitesi Çekirdek Program'da sosyoloji profesörüyüm. Doktoramı 2009'da University of Washington Sosyoloji Bölümü'nden aldım; 2010–2026 yılları arasında Boğaziçi Üniversitesi'nde öğretim üyesi olarak çalıştım. Ekonomik sosyoloji, kent sosyolojisi, milliyetçilik ve din sosyolojisi alanlarında çalışıyorum.
+
+Türkiye'nin çeşitli kentlerinde, özellikle İstanbul'da, kentsel yenileme, kent yönetimi ve konut politikaları üzerine kapsamlı araştırmalar yaptım. Bu çalışmalarım *Urban Studies*, *International Journal of Urban and Regional Research*, *Urban Affairs Review*, *Urban Geography* ve *Law & Society Review* gibi dergilerde yayımlandı.
+
+Son dönemde Türkiye'deki kültürel değer ve inançların yapısı ve değişimi üzerinde çalışıyorum. Bu alandaki ilk araştırmam milliyetçilik algıları üzerineydi ve bulguları *Nations and Nationalism* dergisinde yayımlandı. İkinci araştırmam, Türkiyeli üniversite öğrencilerinin dindarlık ve sekülerlik düzeyleri ve biçimleri üzerine.
+
+Çalışmalarım 2016'da Urban Studies Foundation, 2017'de Kadir Has Üniversitesi (Gelecek Vaat Eden Bilim İnsanı Ödülü) tarafından ödüllendirildi; Boğaziçi Üniversitesi de bana iki ayrı yıl eğitimde üstün başarı ödülü verdi.
+
+[Özgeçmişi indir (PDF)](files/cv-turkce.pdf)
+
+[Öğretim](ogretim.qmd) · [İletişim](iletisim.qmd) · [Yayınlar / Research](research.qmd) · [English](index.qmd)

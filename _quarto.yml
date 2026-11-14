@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tuna Kuyucu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - teaching.qmd
+      - research.qmd
+      - contact.qmd
+    right:
+      - href: tr.qmd
+        text: "Türkçe"
+
+format:
+  html:
+    theme: cosmo
+    toc: false

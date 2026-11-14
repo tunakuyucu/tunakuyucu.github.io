@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+[Türkçe](iletisim.qmd)
+- Email: tuna.kuyucu@khas.edu.tr
+- [ORCID](https://orcid.org/0000-0002-2571-9834)
+- [Google Scholar](https://scholar.google.com/citations?user=jiwnXN4AAAAJ&hl=tr&oi=ao)
+- [GitHub](https://github.com/tunakuyucu)
