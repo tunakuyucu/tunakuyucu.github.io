@@ -6,3 +6,4 @@
 # Word CVs and duplicate PDF stay out of the public repo
 files/*.docx
 files/*2.pdf
+.Rhistory

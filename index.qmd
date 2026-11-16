@@ -16,12 +16,32 @@ about:
       href: https://github.com/tunakuyucu
 ---
 
-I am Professor of Sociology in the Core Program at Kadir Has University, Istanbul. I received my PhD in sociology from the University of Washington in 2009 and taught at Boğaziçi University from 2010 to 2026. My work is in economic sociology, urban sociology, nationalism and the sociology of religion.
+I am Professor of Sociology in the Core Program at Kadir Has University, Istanbul. I received my PhD in sociology from the University of Washington in 2009 and taught at Boğaziçi University from 2010 to 2026. My main fields are sociological methods, quantitative research methods, urban sociology, economic sociology, nationalism and the sociology of religion. For the past two years, my work has focused mostly on understanding and explaining the cultural values and beliefs of people in Turkey, and how they change.
 
-I have done extensive research on the political economy of urban regeneration and low-income housing in Turkish cities, with a particular focus on Istanbul. This work has appeared in *Urban Studies*, *International Journal of Urban and Regional Research*, *Urban Affairs Review*, *Urban Geography* and *Law & Society Review*.
+## Current research
 
-More recently I have been studying the structure of cultural values and beliefs in Turkey. The first project in this line looks at nationalist sentiments and was published in *Nations and Nationalism*. The second is a study of the levels and types of religiosity and secularity among university students in Turkey.
+My research has always been oriented toward causal questions. For the first half of my career, I pursued them mostly through qualitative methods and small-n comparisons. Over time, I grew skeptical that such comparisons can give valid answers to why-questions, and I moved toward quantitative methods, survey research and survey experiments, using R. Today I use large-scale attitude surveys with embedded experiments to map the cultural attitudes and beliefs of people in Turkey, and I work on models that can explain differences between groups. That shift runs through my current projects and the way I teach.
 
-My work has been recognized with an Urban Studies Foundation fellowship, a Kadir Has University Promising Scholar Award, and two teaching awards from Boğaziçi University.
+The largest of these projects, which I am carrying out together with my collaborator Volkan Ertit, is a multi-university study of secularity, belief types and cultural attitudes among university students in Turkey. It covers 50 universities and a sample of close to 36,000 students. The study applies a secularity scale to measure how secular students are, compares these levels across demographic groups, asks which factors best predict secularity, and examines how groups differ on key cultural attitudes.
+
+Before this, I studied nationalist sentiments in Turkey with a sample of about 1,500 respondents. Most research on nationalism is historical or small-n, so a study like this is rather unconventional. My co-author Turgut Keskintürk and I measured nationalist sentiments along five dimensions and used latent class analysis to identify four distinct groups. A resource distribution task in the survey asked people to divide limited economic resources between in-group and out-group members, which let us examine how nationalist attitudes relate to fairness. The results are published in *Nations and Nationalism*.
+
+My next project will bring my work on nationalism and religiosity-secularity together. Focusing again on university students, I will examine how nationalism and religiosity intersect, and how this intersection shapes attitudes such as fairness. I will also run experiments within the survey, randomly assigning participants to different conditions, so that I can address these causal questions more directly.
+
+## Earlier work
+
+Earlier in my career, I spent many years studying urban regeneration and renewal in Turkey, mostly through qualitative research and small-n comparisons. In Istanbul, I asked why renewal projects failed despite strong state backing and favorable macroeconomic conditions. In six other cities, I studied the regeneration of former Sümerbank factory sites to understand why some of these initiatives failed while others succeeded. This work appeared in *Urban Studies*, *International Journal of Urban and Regional Research*, *Urban Affairs Review* and *Urban Geography*.
+
+## Teaching
+
+Teaching has always been the backbone of my academic career. I feel a responsibility to my students, and I firmly believe that one learns best by teaching.
+
+I particularly enjoy teaching Introduction to Sociology, a course offered to students from every major. It helps them pick up a sociological perspective, both theoretical and methodological, whatever they end up studying.
+
+I also love teaching methods sequences, at both undergraduate and graduate levels, because it is methods that make a science! Next, I plan to build a computational social science course sequence that trains students in R.
+
+## Outside the office
+
+I swim, and I am a proud cross-continental swimmer: I have crossed the Bosphorus twice. Everyone loves to say Istanbul is where East meets West, so I paid close attention on the way over: I can report that no cultural change took place somewhere in the middle of the strait. I also cycle, hike and play the saxophone (I switched from the clarinet), and I am trying to learn the piano. The piano is currently winning.
 
 [Download CV (PDF)](files/cv-english.pdf)

@@ -3,10 +3,11 @@ title: "Teaching"
 ---
 
 [Türkçe](ogretim.qmd)
+
 ## Current courses (Fall 2026), Kadir Has University
 
-- **SOC 101: Introduction to Sociology**
-- **KHAS 103: History of Humankind**
+- **Introduction to Sociology**
+- **History of Humankind**
 
 ## Courses taught previously
 
@@ -17,8 +18,6 @@ At Boğaziçi University (2010–2026) and the University of Washington (2003–
 - Advanced Research Methods
 - Social Change and Development
 - Urban Sociology
-- Political Economy of Housing
-- Political Economy of Urbanization in Turkey
 - Sociology of Finance
 
 ## Teaching awards

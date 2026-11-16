@@ -1,0 +1,11 @@
+/* Soft pastel look */
+body { background-color: #FAF4EE; }
+.navbar { background-color: #d3d3d3 !important; }  /* slightly deeper lavender */
+.navbar .navbar-brand, .navbar .nav-link { color: #3b3556 !important; }
+
+/* Nudge the profile photo to the right on wide screens */
+@media (min-width: 992px) {
+  .quarto-about-solana .about-image {
+    transform: translateX(60px);
+  }
+}

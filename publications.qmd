@@ -1,8 +1,6 @@
 ---
-title: "Research"
+title: "Publications"
 ---
-
-*Yayınlarım çoğunlukla İngilizcedir; bu sayfa bu yüzden yalnızca İngilizce hazırlandı.* ([Türkçe sayfalar](tr.qmd))
 
 **Research areas:** Urban Sociology · Economic Sociology · Nationalism · Cultural Sociology · Sociology of Religion · Sociological Methods
 

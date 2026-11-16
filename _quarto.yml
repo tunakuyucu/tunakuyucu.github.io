@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: About
       - teaching.qmd
-      - research.qmd
+      - publications.qmd
       - contact.qmd
     right:
       - href: tr.qmd
@@ -18,4 +18,5 @@ website:
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: false
