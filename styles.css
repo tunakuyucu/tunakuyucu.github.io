@@ -3,10 +3,15 @@ body { background-color: #FAF4EE; }
 .navbar { background-color: #d3d3d3 !important; }  /* slightly deeper lavender */
 .navbar .navbar-brand, .navbar .nav-link { color: #3b3556 !important; }
 
-/* Nudge the profile photo to the right on wide screens */
+/* On wide screens: move the text block left and the photo right, using the free space */
 @media (min-width: 992px) {
+  .quarto-about-solana {
+    --left: clamp(0px, calc((100vw - 1000px) / 4), 160px);
+    --right: clamp(60px, calc((100vw - 1000px) / 2 - 30px), 320px);
+    margin-left: calc(-1 * var(--left));
+  }
   .quarto-about-solana .about-image {
-    transform: translateX(clamp(60px, 8vw, 140px));
+    transform: translateX(var(--right));
   }
 }
 
