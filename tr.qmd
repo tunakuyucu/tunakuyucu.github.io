@@ -26,23 +26,23 @@ Bu projelerin en büyüğü, çalışma arkadaşım Volkan Ertit ile birlikte y�
 
 Bu araştırmadan önce, bir başka meslektaşım Turgut Keskintürk ile Türkiye'deki milliyetçilik algılarını yaklaşık 1.500 kişilik bir örnekleme uyguladığımız bir anketle inceledik. Milliyetçilik araştırmalarının büyük bölümü tarihsel analizlere ya da küçük örneklemlere dayandığı için, nicel yöntemlerin görece az kullanıldığı bu alanda böyle bir çalışma pek alışıldık değil. Araştırmamız milliyetçi duyguları ve tutumları beş boyutta ölçüyor ve örtük sınıf analiziyle örneklemimizi dört ayrı gruba ayırıyor. Ankette ayrıca bir kaynak dağıtım görevi vardı: Katılımcılardan sınırlı ekonomik kaynakları iç grup ve dış grup üyeleri arasında paylaştırmaları isteniyordu. Böylece milliyetçi tutumların adalet anlayışıyla nasıl ilişkili olduğunu inceleyebildik. Sonuçlar *Nations and Nationalism* dergisinde yayımlandı.
 
-Planladığım yeni çalışmada, milliyetçilik ve dindarlık-sekülerlik araştırmalarımı bir araya getireceğim. Yine üniversite öğrencilerine odaklanarak, milliyetçilik ile dindarlığın kesişimini ve bu kesişimin adalet anlayışı gibi tutumları nasıl şekillendirdiğini inceleyeceğim. Ayrıca anket içinde katılımcıları rastgele gruplara ayırarak deneyler de yürüteceğim; böylece bu ilişkilerde nedensellik sorusuna daha doğrudan yanıt arayabileceğim.
+Planladığım yeni çalışmada, milliyetçilik ve dindarlık-sekülerlik araştırmalarımı bir araya getireceğim. Yine üniversite öğrencilerine odaklanarak, milliyetçilik ile dindarlığın kesişimini ve bu kesişimin adalet anlayışı gibi tutumları nasıl şekillendirdiğini inceleyeceğim. Ayrıca anket içinde katılımcıları rastgele gruplara ayırarak deneyler de yürüteceğim. Böylece bu ilişkilerde nedensellik sorusuna daha doğrudan yanıt arayabileceğim.
 
 ## Daha önceki çalışmalarım
 
-Kariyerimin ilk yıllarında Türkiye'de kentsel yenileme ve dönüşümü inceledim; ağırlıklı olarak nitel araştırma ve küçük örneklemli karşılaştırmalar yaptım. İstanbul'da, güçlü devlet desteğine ve elverişli makroekonomik koşullara rağmen yenileme projelerinin neden başarısız olduğunu sordum. Türkiye'nin altı başka kentinde ise eski Sümerbank fabrika alanlarının yenilenmesini inceledim: Bu girişimlerin bir kısmı neden başarısız olurken bir kısmı başarılı oldu? Bu çalışmalar *Urban Studies*, *International Journal of Urban and Regional Research*, *Urban Affairs Review* ve *Urban Geography* dergilerinde yayımlandı.
+Akademik kariyerimin ilk yarısında, ağırlıklı olarak nitel yöntemler ve küçük örneklemli karşılaştırmalar kullanarak Türkiye'de kentsel yenileme ve dönüşüm süreçlerini ve bunların toplumsal sonuçlarını inceledim. Bu araştırmaların İstanbul ayağında önce, kentsel dönüşüm projelerinin 2008 sonrasında neden bu kadar yaygın biçimde uygulanmak istendiğini anlamaya çalıştım. Daha sonra, güçlü devlet desteğine ve elverişli makroekonomik koşullara rağmen yenileme projelerinin neden başarısız olduğunu inceledim. İstanbul dışındaki araştırmalarım ise Türkiye'nin altı kentinde eski Sümerbank fabrika alanlarının yenilenme süreçlerine odaklandı ve burada da bir nedensel sorunun etrafında şekillendi: Bu girişimlerin bir kısmı neden başarısız olurken bir kısmı başarılı oldu? Bu çalışmalar *Urban Studies*, *International Journal of Urban and Regional Research*, *Urban Affairs Review* ve *Urban Geography* dergilerinde yayımlandı.
 
 ## Öğretim
 
-Öğretmenlik, akademik hayatımın hep bel kemiği oldu. Öğrencilerime karşı sorumluluk hissediyorum; bir de insanın en iyi öğretirken öğrendiğine yürekten inanıyorum.
+Ders vermek, akademik hayatımın hep bel kemiği oldu. Bunun nedeni yalnızca öğrencilerime karşı sorumluluğumun bilincinde olmam değil, aynı zamanda bir şeyin en iyi öğretirken öğrenildiğine inanmam.
 
-Özellikle her bölümden öğrencinin aldığı Sosyolojiye Giriş dersini vermekten keyif alıyorum. Öğrenciler ne okurlarsa okusunlar, hem kuramsal hem yöntemsel bir sosyolojik bakış kazanmalarına yardımcı oluyor.
+Vermeyi en sevdiğim derslerden biri Sosyolojiye Giriş dersi. Çalıştığım üniversitelerde her bölümden öğrencinin aldığı bu ders, hangi alanda okurlarsa okusunlar öğrencilere hem kuramsal hem yöntemsel bir sosyolojik bakış kazandırma imkânı veriyor. Yıllar içinde Kent Sosyolojisi, Kalkınma Sosyolojisi ve Finans Sosyolojisi derslerini de çok severek verdim.
 
-Yöntem dizilerini de hem lisans hem lisansüstü düzeyde çok severek veriyorum, çünkü bilimi bilim yapan yöntemdir! Bundan sonra, öğrencilere R ile hesaplamalı sosyal bilim yöntemlerini öğretecek bir ders dizisi kurmayı planlıyorum.
+Lisans ve lisansüstü düzeyde araştırma yöntemleri dersleri ise son dönemde hocalık hayatımın en merkezinde yer alıyor. Bilimi bilim yapanın her şeyden önce yöntem olduğuna çok kuvvetli inananlardanım! Önümüzdeki yıllarda, öğrencilere R ile hesaplamalı sosyal bilim yöntemlerini öğretecek bir ders dizisi kurmayı planlıyorum.
 
 ## Ofis dışında
 
-Yüzüyorum, üstelik kıtalararası yüzücü olmakla övünen türden: Boğaz'ı iki kez yüzerek geçtim. İstanbul için hep "Doğu'yla Batı'nın buluştuğu yer" denir; ben de yolda dikkatle baktım ve boğazın ortasında hiçbir kültürel değişim göremedim. Bunun dışında bisiklete biniyor, doğa yürüyüşleri yapıyor, saksofon çalıyor (klarnetten geçtim) ve piyano öğrenmeye çalışıyorum. Şimdilik piyano önde.
+Yüzüyorum. Boğaz'ı iki kez yüzerek geçtim, yani kıtalararası yüzücü sayılırım ve bununla gurur duyuyorum. İstanbul'a hep "Doğu'yla Batı'nın buluştuğu yer" denir. Ben de yüzerken dikkatle baktım ama boğazın ortasında hiçbir kültürel değişim görmedim. Bisiklete biniyor, doğa yürüyüşleri yapıyorum. Klarnet ve tenor saksafon çalıyordum, ta ki yüksek gürültü gerekçesiyle eşim, oğlum ve kedilerimiz tarafından yasaklanana kadar. Bu yüzden piyanoya geçtim, ama şimdilik piyano beni yeniyor.
 
 [Özgeçmişi indir (PDF)](files/cv-turkce.pdf)
 
