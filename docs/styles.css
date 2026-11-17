@@ -9,3 +9,7 @@ body { background-color: #FAF4EE; }
     transform: translateX(60px);
   }
 }
+
+/* Slightly larger text */
+body { font-size: 1.15rem; line-height: 1.65; }
+.navbar .nav-link, .navbar .navbar-brand { font-size: 1.05rem; }
