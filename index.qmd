@@ -22,7 +22,7 @@ I am Professor of Sociology in the Core Program at Kadir Has University, Istanbu
 
 My research has always been driven by causal questions. For the first half of my career, I pursued them through qualitative methods and small-n comparisons. Over time, I grew skeptical that such comparisons can answer them reliably, and I moved to quantitative methods. Today I use large-scale surveys with embedded experiments, analyzed in R, to map the cultural attitudes and beliefs of people in Turkey, and I work on models that identify which social factors shape them. This shift shapes both my current projects and the way I teach.
 
-The largest of these projects, which I am carrying out together with my collaborator Volkan Ertit, is a multi-university study of secularity, belief types and cultural attitudes among university students in Turkey. It covers 50 universities and a sample of close to 36,000 students. The study applies a secularity scale to measure how secular students are, compares these levels across demographic groups, asks which factors best predict secularity, and examines how groups differ on key cultural attitudes.
+The largest of these projects, which I am carrying out together with my collaborator Volkan Ertit, is a multi-university study of secularity, belief types and cultural attitudes among university students in Turkey. It covers 50 universities and a sample of close to 36,000 students. The study applies a secularity scale to measure students' secularity, compares these levels across demographic groups, asks which factors best predict secularity, and examines how groups differ on key cultural attitudes.
 
 Before this, I studied nationalist sentiments in Turkey with a sample of about 1,500 respondents. Most research on nationalism is historical or small-n, so a study like this is rather unconventional. My co-author Turgut Keskintürk and I measured nationalist sentiments along five dimensions and used latent class analysis to identify four distinct groups. A resource distribution task in the survey asked people to divide limited economic resources between in-group and out-group members, which let us examine how nationalist attitudes relate to fairness. The results are published in *Nations and Nationalism*.
 
@@ -36,7 +36,7 @@ Earlier in my career, I spent many years studying urban regeneration and renewal
 
 Teaching has always been the backbone of my academic career. I feel a responsibility to my students, and I firmly believe that one learns best by teaching.
 
-I particularly enjoy teaching Introduction to Sociology, a course offered to students from every major. It helps them pick up a sociological perspective, both theoretical and methodological, whatever they end up studying. Over the years, I have also taught Urban Sociology, Social Change and Development, and Sociology of Finance.
+I particularly enjoy teaching Introduction to Sociology, a course offered to students from every major. It helps them develop a sociological perspective, both theoretical and methodological, whatever they end up studying. Over the years, I have also taught Urban Sociology, Social Change and Development, and Sociology of Finance.
 
 I also love teaching methods sequences, at both undergraduate and graduate levels, because it is methods that make a science! Next, I plan to build a computational social science course sequence that trains students in R.
 
