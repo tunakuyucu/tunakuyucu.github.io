@@ -6,7 +6,7 @@ body { background-color: #FAF4EE; }
 /* Nudge the profile photo to the right on wide screens */
 @media (min-width: 992px) {
   .quarto-about-solana .about-image {
-    transform: translateX(60px);
+    transform: translateX(clamp(60px, 8vw, 140px));
   }
 }
 
